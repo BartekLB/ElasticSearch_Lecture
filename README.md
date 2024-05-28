@@ -1,3 +1,3 @@
 # PHPers_ElasticSearch
 
-Materials will be available on the day of the meeting.
+For more materials, please contact me by e-mail.
